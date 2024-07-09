@@ -1,4 +1,4 @@
-# Moving Object Detection with OpenCV
+# Object Detection in video or camera with OpenCV + Python
 
 
 
@@ -7,6 +7,8 @@
 Run the following commands on a new terminal window to create a new environment with the required packages: 
 
 ```shell script
+pip install -m venv myenv
+myenv\Scripts\activate
 pip install -r requirements.txt
 ```
 
